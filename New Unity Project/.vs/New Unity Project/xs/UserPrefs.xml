@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{B2B58FB2-4462-6B0C-A872-40DD957E5FE0}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Menu.cs">
+    <Files>
+      <File FileName="Assets/PlayerMovement.cs" Line="37" Column="30" />
+      <File FileName="Assets/FollowPlayer.cs" Line="16" Column="54" />
+      <File FileName="Assets/PlayerCollision.cs" Line="15" Column="29" />
+      <File FileName="Assets/Score.cs" Line="8" Column="21" />
+      <File FileName="Assets/GameManager.cs" Line="17" Column="1" />
+      <File FileName="Assets/EndTrigger.cs" Line="10" Column="37" />
+      <File FileName="Assets/LevelComplete.cs" Line="8" Column="14" />
+      <File FileName="Assets/Credits.cs" Line="7" Column="28" />
+      <File FileName="Assets/Menu.cs" Line="6" Column="26" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="2538ec72-9365-432c-8207-dfa4c4984636" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
